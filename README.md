@@ -7,4 +7,5 @@ Team presentations/seminars:
 
 Individual Seminar:
 1. Seminar on AI in Defence & the Military: Introduction to how AI is used in the military and combat applications, brief history, different domains and classifications of AI in the military, applications, challenges along with examples and video depictions.
-Google Drive link: 
+Google Drive link:
+https://docs.google.com/presentation/d/1LUUoVZsLt8LZWQCTTx-nfjZBYv4J0eWM/edit?usp=sharing&ouid=113488587658741205077&rtpof=true&sd=true
