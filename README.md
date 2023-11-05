@@ -21,7 +21,7 @@ Brief overview of the applications of matrix theory and matrix operations in the
 
 Google Drive Link: https://drive.google.com/file/d/1Of2L7gUa_ptisja4Kvgbufuf49SAQpPA/view?usp=sharing
    
-3. Comparative Analysis of Performances of Different Machine Learning Models Applied to the World Happiness Report 2022 Data:
+2. Comparative Analysis of Performances of Different Machine Learning Models Applied to the World Happiness Report 2022 Data:
 A comparative analysis of performances of different machine learning models applied to the World Happiness Report 2022 was studied. Various regression models and a neural network model was fitted to see which model performs best and which model can be used to predict future happiness scores. The analysis was done using R software.
 
 Google Drive Link: https://drive.google.com/file/d/1xLet4qOu2M48WYjYIjxMCu3dZ-RUplh8/view?usp=sharing
